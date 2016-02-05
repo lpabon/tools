@@ -19,10 +19,10 @@
     background: rgb(215, 215, 215);
 
     /* Use Red Hat colors http://brand.redhat.com */
-    background: -o-radial-gradient(rgb(204, 240, 240), rgb(130, 0, 0));
-    background: -moz-radial-gradient(rgb(204, 240, 240), rgb(130, 0, 0));
-    background: -webkit-radial-gradient(rgb(204, 240, 240), rgb(130, 0, 0));
-    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(204, 240, 240)), to(rgb(130, 0, 0)));
+    background: -o-radial-gradient(rgb(204, 0, 0), rgb(130, 0, 0));
+    background: -moz-radial-gradient(rgb(204, 0, 0), rgb(130, 0, 0));
+    background: -webkit-radial-gradient(rgb(204, 0, 0), rgb(130, 0, 0));
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(204, 0, 0)), to(rgb(130, 0, 0)));
 
     -webkit-font-smoothing: antialiased;
   }
